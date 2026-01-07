@@ -1,5 +1,9 @@
 # Dux Call（病院連絡支援システム）
 
+<p align="center">
+  <img src="screenshots/tel_screen.png.png" width="50%" />
+</p>
+
 QR コードで病院を登録し、  
 **「今、電話できるか」が一目で分かる**  
 患者向け病院連絡支援システムです。
@@ -12,7 +16,13 @@ PHP（XAMPP）＋ React（Vite）で構築し、
 ## 制作物概要
 
 - QR コード読み取りで病院を簡単登録
+<p align="center">
+  <img src="screenshots/qr_code.png.png.png" width="30%" />
+</p>
 - 複数病院の連絡先を一覧管理
+<p align="center">
+  <img src="screenshots/contact_address_regi.png.png.png" width="30%" />
+</p>
 - 受付時間内のみ電話可能（時間外は自動で無効化）
 - 曜日別受付時間・例外日（休診等）に対応
 - 高齢者を想定したシンプルな UI 設計
