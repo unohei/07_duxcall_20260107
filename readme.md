@@ -1,7 +1,7 @@
 # Dux Call（病院連絡支援システム）
 
 <p align="center">
-  <img src="screenshots/tel_screen.png.png" width="50%" />
+  <img src="screenshots/tel_screen.png" width="50%" />
 </p>
 
 QR コードで病院を登録し、  
@@ -17,11 +17,11 @@ PHP（XAMPP）＋ React（Vite）で構築し、
 
 - QR コード読み取りで病院を簡単登録
 <p align="center">
-  <img src="screenshots/qr_code.png.png.png" width="30%" />
+  <img src="screenshots/qr_code.png" width="30%" />
 </p>
 - 複数病院の連絡先を一覧管理
 <p align="center">
-  <img src="screenshots/contact_address_regi.png.png.png" width="30%" />
+  <img src="screenshots/contact_address_regi.png" width="30%" />
 </p>
 - 受付時間内のみ電話可能（時間外は自動で無効化）
 - 曜日別受付時間・例外日（休診等）に対応
